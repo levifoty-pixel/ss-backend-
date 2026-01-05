@@ -1,0 +1,7 @@
+flask
+gunicorn
+yt-dlp
+numpy
+scipy
+mido
+basic-pitch
