@@ -2,6 +2,5 @@ flask==2.3.3
 gunicorn==21.2.0
 yt-dlp==2023.12.30
 numpy==1.26.3
-scipy==1.11.4
 mido==1.2.10
 basic-pitch @ git+https://github.com/spotify/basic-pitch.git
